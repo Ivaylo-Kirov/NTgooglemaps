@@ -1,0 +1,1 @@
+get API KEY from Google > setup a DIV to hold the map > setup styling > load JS API > and use its methods to init and populate the map into your designated DIV
