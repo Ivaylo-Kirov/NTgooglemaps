@@ -1,1 +1,3 @@
-get API KEY from Google > setup a DIV to hold the map > setup styling > load JS API > and use its methods to init and populate the map into your designated DIV
+get API KEY from Google > setup a DIV to hold the map > setup styling > load JS API with embedded API key in the include > and use its methods to init and populate the map into your designated DIV
+
+* Round 2 - switched location to Toronto and added "new google.maps.Marker" which takes in a lat/long object and a map object to place it on - in my head this clicked because to populate a bunch of locations you would iterate through a list and make marker objects for each item
